@@ -1,0 +1,10 @@
+D:\project\MovieApplication\src\MovieApp.Frontend\bin\Debug\MovieApp.Frontend.exe.config
+D:\project\MovieApplication\src\MovieApp.Frontend\bin\Debug\MovieApp.Frontend.exe
+D:\project\MovieApplication\src\MovieApp.Frontend\bin\Debug\MovieApp.Frontend.pdb
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.csproj.AssemblyReference.cache
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.Form1.resources
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.Properties.Resources.resources
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.csproj.GenerateResource.cache
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.csproj.CoreCompileInputs.cache
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.exe
+D:\project\MovieApplication\src\MovieApp.Frontend\obj\Debug\MovieApp.Frontend.pdb
