@@ -1,0 +1,616 @@
+[
+    {
+        "Id": "a5f2ade2-eb7f-4750-bbac-2a34ed6aeec5",
+        "Title": "Inception",
+        "Description": "A thief who enters the dreams of others to steal their secrets embarks on a mission to plant an idea into a CEO\u0027s mind.",
+        "Genre": [
+            0,
+            1,
+            10,
+            11
+        ],
+        "Author": "Christopher Nolan"
+    },
+    {
+        "Id": "2375b419-bbb6-4d95-b18b-cf3fe3934640",
+        "Title": "Pulp Fiction",
+        "Description": "The lives of two hitmen, a boxer, a gangster\u0027s wife, and a pair of small-time criminals intertwine in this non-linear crime drama.",
+        "Genre": [
+            4,
+            5
+        ],
+        "Author": "Quentin Tarantino"
+    },
+    {
+        "Id": "cb9063c1-4ee0-412a-99fa-786a7236801c",
+        "Title": "The Shawshank Redemption",
+        "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "Genre": [
+            5
+        ],
+        "Author": "Frank Darabont"
+    },
+    {
+        "Id": "3a120727-90c0-4c7e-b2f7-7e0936a9d052",
+        "Title": "The Dark Knight",
+        "Description": "When the Joker wreaks havoc on Gotham City, Batman must confront his most formidable adversary to save the city.",
+        "Genre": [
+            0,
+            4,
+            5
+        ],
+        "Author": "Christopher Nolan"
+    },
+    {
+        "Id": "68a102fd-ed87-4a9d-803c-d5fbcdc8a6a5",
+        "Title": "Forrest Gump",
+        "Description": "The life story of a man with a low IQ, who inadvertently influences several historical events in America.",
+        "Genre": [
+            5,
+            9
+        ],
+        "Author": "Robert Zemeckis"
+    },
+    {
+        "Id": "9683b8ea-40ad-4ed3-8171-eb9f7da59f1c",
+        "Title": "The Godfather",
+        "Description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
+        "Genre": [
+            4,
+            5
+        ],
+        "Author": "Francis Ford Coppola"
+    },
+    {
+        "Id": "d7bdc4c0-9c65-49c4-8a65-a8a524348a07",
+        "Title": "Jurassic Park",
+        "Description": "During a preview tour of a theme park, a dinosaur expert and his team must fight for their lives when the creatures escape.",
+        "Genre": [
+            0,
+            1,
+            10
+        ],
+        "Author": "Steven Spielberg"
+    },
+    {
+        "Id": "15bab50a-f18e-42f5-80db-ec999816e99f",
+        "Title": "The Avengers",
+        "Description": "Earth\u0027s mightiest heroes, including Iron Man, Thor, and Captain America, team up to save the world from a powerful threat.",
+        "Genre": [
+            0,
+            1,
+            10
+        ],
+        "Author": "Joss Whedon"
+    },
+    {
+        "Id": "976fdb30-68c9-432a-bb1f-72ff17fbb6a2",
+        "Title": "Interstellar",
+        "Description": "A group of astronauts embarks on a journey through a wormhole in search of a new habitable planet for humanity.",
+        "Genre": [
+            1,
+            5,
+            10
+        ],
+        "Author": "Christopher Nolan"
+    },
+    {
+        "Id": "884be3b0-83fc-4602-9b5a-3e953ab6b8ef",
+        "Title": "Eternal Sunshine of the Spotless Mind",
+        "Description": "A man undergoes a procedure to erase the memories of his failed relationship but soon realizes he doesn\u0027t want to forget.",
+        "Genre": [
+            5,
+            9,
+            10
+        ],
+        "Author": "Michel Gondry"
+    },
+    {
+        "Id": "f99601db-8083-483d-a998-84ba66f1acac",
+        "Title": "Inglourious Basterds",
+        "Description": "In Nazi-occupied France, a group of American soldiers plot to assassinate high-ranking Nazi officials during a film premiere.",
+        "Genre": [
+            1,
+            5,
+            12
+        ],
+        "Author": "Quentin Tarantino"
+    },
+    {
+        "Id": "cef752aa-cb38-411d-b615-360034752ac8",
+        "Title": "The Revenant",
+        "Description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead.",
+        "Genre": [
+            1,
+            5,
+            13
+        ],
+        "Author": "Alejandro Gonz\u00E1lez I\u00F1\u00E1rritu"
+    },
+    {
+        "Id": "316b1b5d-c70b-4396-8c89-82c78616868b",
+        "Title": "Avatar",
+        "Description": "A paraplegic marine is dispatched to the moon Pandora on a unique mission but becomes torn between following orders and protecting an alien civilization.",
+        "Genre": [
+            0,
+            1,
+            10
+        ],
+        "Author": "James Cameron"
+    },
+    {
+        "Id": "3c2c4c70-0054-4429-93ee-bcf2c4347fd9",
+        "Title": "Gladiator",
+        "Description": "A former Roman General seeks justice after being betrayed by a corrupt emperor and forced into slavery.",
+        "Genre": [
+            0,
+            1,
+            5
+        ],
+        "Author": "Ridley Scott"
+    },
+    {
+        "Id": "9ac3f52b-4e56-46d5-86f6-44b2956f6e82",
+        "Title": "The Social Network",
+        "Description": "The story of the creation of Facebook and the legal battles that followed, as told from the perspective of its founders.",
+        "Genre": [
+            5
+        ],
+        "Author": "David Fincher"
+    },
+    {
+        "Id": "eb16a0e1-63c5-4582-a79c-fa54ccb0b682",
+        "Title": "In Bruges",
+        "Description": "Two hitmen hide out in Bruges, Belgium, after a job goes wrong, leading to darkly comedic and dramatic consequences.",
+        "Genre": [
+            4,
+            5,
+            3
+        ],
+        "Author": "Martin McDonagh"
+    },
+    {
+        "Id": "7f612018-5055-46ea-99ae-ce10dd17c1c1",
+        "Title": "The Departed",
+        "Description": "An undercover cop and a mole in the police force attempt to identify each other while infiltrating an Irish gang in Boston.",
+        "Genre": [
+            4,
+            5,
+            11
+        ],
+        "Author": "Martin Scorsese"
+    },
+    {
+        "Id": "d4e8c5ca-4287-4a46-8c29-aabf94e3853b",
+        "Title": "Casablanca",
+        "Description": "In World War II-era Morocco, a cynical American expatriate encounters a former lover, with whom he becomes entangled in a web of intrigue.",
+        "Genre": [
+            5,
+            9,
+            12
+        ],
+        "Author": "Michael Curtiz"
+    },
+    {
+        "Id": "138f0328-c983-4fd7-941b-867be76ff8bb",
+        "Title": "The Silence of the Lambs",
+        "Description": "A young FBI agent seeks the help of a brilliant but insane serial killer to catch another killer on the loose.",
+        "Genre": [
+            4,
+            5,
+            11
+        ],
+        "Author": "Jonathan Demme"
+    },
+    {
+        "Id": "370c0416-d0b6-4c88-81dc-81e61b2b5830",
+        "Title": "Fight Club",
+        "Description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "Genre": [
+            5
+        ],
+        "Author": "David Fincher"
+    },
+    {
+        "Id": "4fbbb8c5-1b49-4a6a-b548-647c1c9f36ae",
+        "Title": "The Lord of the Rings: The Two Towers",
+        "Description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron\u0027s new ally, Saruman, and his hordes of Isengard.",
+        "Genre": [
+            0,
+            1,
+            5,
+            6
+        ],
+        "Author": "Peter Jackson"
+    },
+    {
+        "Id": "e995b74e-65d7-43b1-9df2-c34065d40fb5",
+        "Title": "Spider-Man: Across the Spider-Verse",
+        "Description": "Miles Morales catapults across the Multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
+        "Genre": [
+            2,
+            0,
+            1,
+            6,
+            10
+        ],
+        "Author": "Justin K. Thompson"
+    },
+    {
+        "Id": "e3fac843-1bc7-492e-8a61-195e902ae363",
+        "Title": "The Matrix",
+        "Description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "Genre": [
+            0,
+            10,
+            6
+        ],
+        "Author": "Lilly Wachowski"
+    },
+    {
+        "Id": "a90481af-1e43-467d-b6b9-85b0ac762de2",
+        "Title": "Blade Runner",
+        "Description": "In a dystopian future, a detective hunts down replicants, bioengineered beings, while questioning his own humanity.",
+        "Genre": [
+            10,
+            27,
+            0
+        ],
+        "Author": "Ridley Scott"
+    },
+    {
+        "Id": "f1d01ed5-0609-4cc1-b867-d58998d9e665",
+        "Title": "Forrest Gump",
+        "Description": "The life story of a man with a low IQ, who inadvertently influences several historical events in America.",
+        "Genre": [
+            5,
+            9
+        ],
+        "Author": "Robert Zemeckis"
+    },
+    {
+        "Id": "3776e972-1fbb-4d62-95cd-383ff6627e9e",
+        "Title": "The Godfather",
+        "Description": "The aging patriarch of an organized crime dynasty transfers control of his empire to his reluctant son.",
+        "Genre": [
+            4,
+            5
+        ],
+        "Author": "Francis Ford Coppola"
+    },
+    {
+        "Id": "5a201de5-1f21-45f1-8143-01e19b3c9b7d",
+        "Title": "Jurassic Park",
+        "Description": "During a preview tour of a theme park, a dinosaur expert and his team must fight for their lives when the creatures escape.",
+        "Genre": [
+            0,
+            1,
+            10
+        ],
+        "Author": "Steven Spielberg"
+    },
+    {
+        "Id": "e07a73ef-99af-4dd5-a343-19ef7f7e6172",
+        "Title": "The Avengers",
+        "Description": "Earth\u0027s mightiest heroes, including Iron Man, Thor, and Captain America, team up to save the world from a powerful threat.",
+        "Genre": [
+            0,
+            1,
+            10
+        ],
+        "Author": "Joss Whedon"
+    },
+    {
+        "Id": "41427c19-7245-49b0-9dc1-1254bd2178ac",
+        "Title": "Interstellar",
+        "Description": "A group of astronauts embarks on a journey through a wormhole in search of a new habitable planet for humanity.",
+        "Genre": [
+            1,
+            5,
+            10
+        ],
+        "Author": "Christopher Nolan"
+    },
+    {
+        "Id": "755c47b2-b2e0-4de7-a04f-faecc78a8636",
+        "Title": "Eternal Sunshine of the Spotless Mind",
+        "Description": "A man undergoes a procedure to erase the memories of his failed relationship but soon realizes he doesn\u0027t want to forget.",
+        "Genre": [
+            5,
+            9,
+            10
+        ],
+        "Author": "Michel Gondry"
+    },
+    {
+        "Id": "cd51720d-e7f3-42dd-a560-4fd35cfd615e",
+        "Title": "Schindler\u0027s List",
+        "Description": "In German-occupied Poland during World War II, a businessman saves the lives of over a thousand Polish-Jewish refugees.",
+        "Genre": [
+            40,
+            5,
+            41
+        ],
+        "Author": "Steven Spielberg"
+    },
+    {
+        "Id": "7b63c05b-3707-44a7-bf93-f04726f00b89",
+        "Title": "The Green Mile",
+        "Description": "The lives of guards on Death Row are affected by one of their charges: a giant black man accused of child murder and rape, yet who has a mysterious gift.",
+        "Genre": [
+            4,
+            5,
+            6
+        ],
+        "Author": "Frank Darabont"
+    },
+    {
+        "Id": "6d2d5caf-7c2a-47fc-9bef-694209a61a29",
+        "Title": "Gladiator",
+        "Description": "A former Roman General seeks justice after being betrayed by a corrupt emperor and forced into slavery.",
+        "Genre": [
+            0,
+            1,
+            5
+        ],
+        "Author": "Ridley Scott"
+    },
+    {
+        "Id": "e8c6fbce-700e-4904-8c74-c824f77bc98e",
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Description": "A young hobbit, Frodo, must embark on a perilous journey to destroy a powerful ring and prevent an evil lord from taking over Middle-earth.",
+        "Genre": [
+            0,
+            1,
+            5,
+            6
+        ],
+        "Author": "Peter Jackson"
+    },
+    {
+        "Id": "443cfe1d-d9c8-4085-a7cd-2a75be3090c3",
+        "Title": "Saving Private Ryan",
+        "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "Genre": [
+            5,
+            12
+        ],
+        "Author": "Steven Spielberg"
+    },
+    {
+        "Id": "be46ffc3-b5f9-4c07-8535-efd432c8665d",
+        "Title": "The Silence of the Lambs",
+        "Description": "A young FBI agent seeks the help of a brilliant but insane serial killer to catch another killer on the loose.",
+        "Genre": [
+            4,
+            5,
+            11
+        ],
+        "Author": "Jonathan Demme"
+    },
+    {
+        "Id": "d4dac05b-17fe-4d07-af3e-5a6d8485e418",
+        "Title": "The Terminator",
+        "Description": "A cyborg assassin is sent back in time to kill the mother of the future leader of the human resistance, but a soldier is also sent back to protect her.",
+        "Genre": [
+            0,
+            10
+        ],
+        "Author": "James Cameron"
+    },
+    {
+        "Id": "bd752645-b775-44f1-a5bc-6a33dfb3307a",
+        "Title": "Titanic",
+        "Description": "A romance between a wealthy passenger and a working-class artist aboard the ill-fated maiden voyage of the R.M.S. Titanic.",
+        "Genre": [
+            5,
+            9
+        ],
+        "Author": "James Cameron"
+    },
+    {
+        "Id": "17384b42-1dc0-4cc1-9e84-e85fa77b9e5a",
+        "Title": "Goodfellas",
+        "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+        "Genre": [
+            40,
+            4,
+            5
+        ],
+        "Author": "Martin Scorsese"
+    },
+    {
+        "Id": "259f07d7-2d08-4edf-9a5b-fb3e1aaea7f9",
+        "Title": "The Lion King",
+        "Description": "A young lion prince flees his kingdom after the murder of his father and learns the true meaning of responsibility and bravery.",
+        "Genre": [
+            2,
+            1,
+            5
+        ],
+        "Author": "Roger Allers, Rob Minkoff"
+    },
+    {
+        "Id": "28df6bcf-1e45-480f-b18a-d306d1343032",
+        "Title": "Avatar",
+        "Description": "A paraplegic marine is dispatched to the moon Pandora on a unique mission but becomes torn between following orders and protecting an alien civilization.",
+        "Genre": [
+            0,
+            1,
+            10
+        ],
+        "Author": "James Cameron"
+    },
+    {
+        "Id": "3e276968-7907-42d2-9265-66991e686519",
+        "Title": "The Social Network",
+        "Description": "The story of the creation of Facebook and the legal battles that followed, as told from the perspective of its founders.",
+        "Genre": [
+            5
+        ],
+        "Author": "David Fincher"
+    },
+    {
+        "Id": "61e03ab2-3f13-4ed5-8ed1-f92120254523",
+        "Title": "The Revenant",
+        "Description": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead.",
+        "Genre": [
+            1,
+            5,
+            13
+        ],
+        "Author": "Alejandro Gonz\u00E1lez I\u00F1\u00E1rritu"
+    },
+    {
+        "Id": "97044224-be8c-4036-ab9c-e28db8f9d109",
+        "Title": "Inglourious Basterds",
+        "Description": "In Nazi-occupied France, a group of American soldiers plot to assassinate high-ranking Nazi officials during a film premiere.",
+        "Genre": [
+            1,
+            5,
+            12
+        ],
+        "Author": "Quentin Tarantino"
+    },
+    {
+        "Id": "52a4dc44-11ae-46e1-80cf-3f8d41c12041",
+        "Title": "The Departed",
+        "Description": "An undercover cop and a mole in the police force attempt to identify each other while infiltrating an Irish gang in Boston.",
+        "Genre": [
+            4,
+            5,
+            11
+        ],
+        "Author": "Martin Scorsese"
+    },
+    {
+        "Id": "b284b3ef-093d-4446-be6e-445daa77db9f",
+        "Title": "Casablanca",
+        "Description": "In World War II-era Morocco, a cynical American expatriate encounters a former lover, with whom he becomes entangled in a web of intrigue.",
+        "Genre": [
+            5,
+            9,
+            12
+        ],
+        "Author": "Michael Curtiz"
+    },
+    {
+        "Id": "6db099d7-da87-4000-9dfe-cc6ae7c10db9",
+        "Title": "Schindler List",
+        "Description": "In German-occupied Poland during World War II, a businessman saves the lives of over a thousand Polish-Jewish refugees.",
+        "Genre": [
+            40,
+            5,
+            41
+        ],
+        "Author": "Steven Spielberg"
+    },
+    {
+        "Id": "bf000022-167f-471b-b2c8-4bf35081350c",
+        "Title": "The Green Mile",
+        "Description": "The lives of guards on Death Row are affected by one of their charges: a giant black man accused of child murder and rape, yet who has a mysterious gift.",
+        "Genre": [
+            4,
+            5,
+            6
+        ],
+        "Author": "Frank Darabont"
+    },
+    {
+        "Id": "8bcaaec9-8b4f-442b-a9a4-7f666d6b7a16",
+        "Title": "Gladiator",
+        "Description": "A former Roman General seeks justice after being betrayed by a corrupt emperor and forced into slavery.",
+        "Genre": [
+            0,
+            1,
+            5
+        ],
+        "Author": "Ridley Scott"
+    },
+    {
+        "Id": "a3518eef-58da-4c70-9d78-0854fba8bdec",
+        "Title": "The Lord of the Rings: The Fellowship of the Ring",
+        "Description": "A young hobbit, Frodo, must embark on a perilous journey to destroy a powerful ring and prevent an evil lord from taking over Middle-earth.",
+        "Genre": [
+            0,
+            1,
+            5,
+            6
+        ],
+        "Author": "Peter Jackson"
+    },
+    {
+        "Id": "9bcfc977-fb8e-4289-a1f1-5025372a3d32",
+        "Title": "Saving Private Ryan",
+        "Description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+        "Genre": [
+            5,
+            12
+        ],
+        "Author": "Steven Spielberg"
+    },
+    {
+        "Id": "b785348b-bcb8-4674-baf2-59ef221bb027",
+        "Title": "The Silence of the Lambs",
+        "Description": "A young FBI agent seeks the help of a brilliant but insane serial killer to catch another killer on the loose.",
+        "Genre": [
+            4,
+            5,
+            11
+        ],
+        "Author": "Jonathan Demme"
+    },
+    {
+        "Id": "8eebcb61-1b6e-4830-9112-aa30e6d9b49e",
+        "Title": "The Terminator",
+        "Description": "A cyborg assassin is sent back in time to kill the mother of the future leader of the human resistance, but a soldier is also sent back to protect her.",
+        "Genre": [
+            0,
+            10
+        ],
+        "Author": "James Cameron"
+    },
+    {
+        "Id": "6cf785aa-b475-496f-b233-04f1e19c3b03",
+        "Title": "Titanic",
+        "Description": "A romance between a wealthy passenger and a working-class artist aboard the ill-fated maiden voyage of the R.M.S. Titanic.",
+        "Genre": [
+            5,
+            9
+        ],
+        "Author": "James Cameron"
+    },
+    {
+        "Id": "ec7979d5-d890-42d0-9335-1ff0b76a3b1d",
+        "Title": "Goodfellas",
+        "Description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+        "Genre": [
+            40,
+            4,
+            5
+        ],
+        "Author": "Martin Scorsese"
+    },
+    {
+        "Id": "e66ebd03-a143-403d-af35-5abf615a7fd2",
+        "Title": "The Lion King",
+        "Description": "A young lion prince flees his kingdom after the murder of his father and learns the true meaning of responsibility and bravery.",
+        "Genre": [
+            2,
+            1,
+            5
+        ],
+        "Author": "Roger Allers, Rob Minkoff"
+    },
+    {
+        "Id": "100de3e8-d0e2-426b-8f14-891434cd3702",
+        "Title": "The Great Escape",
+        "Description": "During World War II, a group of Allied prisoners in a German POW camp plan an ambitious escape.",
+        "Genre": [
+            1,
+            5,
+            12
+        ],
+        "Author": "John Sturges"
+    }
+]

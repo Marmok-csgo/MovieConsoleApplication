@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xaaRd6hyqi7DQZa3d9CbF4+Q7H1rEW+lzJQrEZUT0H0WKThnj1agsPltC3pkiFmihJEOB0CkDP0z1N/Tjaf2rA==",
+  "dgSpecHash": "YgsFjmELNMDCIcJy0+fX7zJ4u8n+6uAuIzd8PuaZ3PIoUwwacDqJeVG9O+U1R12FQ1R1FOczjDjBeOY0Yn4uJA==",
   "success": true,
-  "projectFilePath": "D:\\project\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
+  "projectFilePath": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

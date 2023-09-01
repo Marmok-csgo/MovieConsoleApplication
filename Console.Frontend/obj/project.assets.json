@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "MovieApp.Backend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/MovieApp.Backend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MovieApp.Backend.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MovieApp.Backend/1.0.0": {
+      "type": "project",
+      "path": "../src/MovieApp.Backend/MovieApp.Backend.csproj",
+      "msbuildProject": "../src/MovieApp.Backend/MovieApp.Backend.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "MovieApp.Backend >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ferfe\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
-      "projectName": "MovieApp.Backend",
-      "projectPath": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
+      "projectUniqueName": "D:\\project\\exam\\MovieApplication\\Console.Frontend\\Console.Frontend.csproj",
+      "projectName": "Console.Frontend",
+      "projectPath": "D:\\project\\exam\\MovieApplication\\Console.Frontend\\Console.Frontend.csproj",
       "packagesPath": "C:\\Users\\ferfe\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\obj\\",
+      "outputPath": "D:\\project\\exam\\MovieApplication\\Console.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferfe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj": {
+              "projectPath": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

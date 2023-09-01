@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\project\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj": {}
+    "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj": {}
   },
   "projects": {
-    "D:\\project\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj": {
+    "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\project\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
+        "projectUniqueName": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
         "projectName": "MovieApp.Backend",
-        "projectPath": "D:\\project\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
+        "projectPath": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\MovieApp.Backend.csproj",
         "packagesPath": "C:\\Users\\ferfe\\.nuget\\packages\\",
-        "outputPath": "D:\\project\\MovieApplication\\src\\MovieApp.Backend\\obj\\",
+        "outputPath": "D:\\project\\exam\\MovieApplication\\src\\MovieApp.Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferfe\\AppData\\Roaming\\NuGet\\NuGet.Config",

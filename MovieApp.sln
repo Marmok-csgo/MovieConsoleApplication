@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Backend", "src\Mov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieApp.Frontend", "src\MovieApp.Frontend\MovieApp.Frontend.csproj", "{46A1F80F-DD79-4FEE-AA57-28130B7EDFAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.Frontend", "Console.Frontend\Console.Frontend.csproj", "{A60D6772-C394-43EF-852A-D77A00F911E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{46A1F80F-DD79-4FEE-AA57-28130B7EDFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46A1F80F-DD79-4FEE-AA57-28130B7EDFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46A1F80F-DD79-4FEE-AA57-28130B7EDFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A60D6772-C394-43EF-852A-D77A00F911E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60D6772-C394-43EF-852A-D77A00F911E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60D6772-C394-43EF-852A-D77A00F911E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60D6772-C394-43EF-852A-D77A00F911E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,11 @@
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\MovieApp.Backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\MovieApp.Backend.AssemblyInfoInputs.cache
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\MovieApp.Backend.AssemblyInfo.cs
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\MovieApp.Backend.csproj.CoreCompileInputs.cache
+D:\project\exam\MovieApplication\src\MovieApp.Backend\bin\Debug\net7.0\MovieApp.Backend.deps.json
+D:\project\exam\MovieApplication\src\MovieApp.Backend\bin\Debug\net7.0\MovieApp.Backend.dll
+D:\project\exam\MovieApplication\src\MovieApp.Backend\bin\Debug\net7.0\MovieApp.Backend.pdb
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\MovieApp.Backend.dll
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\refint\MovieApp.Backend.dll
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\MovieApp.Backend.pdb
+D:\project\exam\MovieApplication\src\MovieApp.Backend\obj\Debug\net7.0\ref\MovieApp.Backend.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Console.Frontend/1.0.0": {
+        "dependencies": {
+          "MovieApp.Backend": "1.0.0"
+        },
+        "runtime": {
+          "Console.Frontend.dll": {}
+        }
+      },
+      "MovieApp.Backend/1.0.0": {
+        "runtime": {
+          "MovieApp.Backend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console.Frontend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MovieApp.Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

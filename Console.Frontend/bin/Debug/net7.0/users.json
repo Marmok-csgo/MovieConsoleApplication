@@ -1,0 +1,79 @@
+[
+    {
+        "Id": "263839c6-be93-4d99-b4cb-8dfd1b9a9de2",
+        "UserName": "XanSolo",
+        "Email": "XanSolo@gmail.com",
+        "Password": "Qwert_1234",
+        "IsAdmin": false
+    },
+    {
+        "Id": "7c03cebd-fa24-4ad6-9770-f8a7b859cf0e",
+        "UserName": "FreshSmash",
+        "Email": "FreshSmash@gmail.com",
+        "Password": "Salom@1132",
+        "IsAdmin": false
+    },
+    {
+        "Id": "d380cffa-5607-4f97-810e-641f2aff324b",
+        "UserName": "SuperManga",
+        "Email": "SuperManga@gmail.com",
+        "Password": "Super$4444",
+        "IsAdmin": false
+    },
+    {
+        "Id": "804dd47c-125c-4374-8e8f-d22b205b9ad0",
+        "UserName": "CooCooLoo",
+        "Email": "CooCooLoo@gmail.com",
+        "Password": "Cola_1231",
+        "IsAdmin": false
+    },
+    {
+        "Id": "b2faa042-f412-4646-b5cf-2a94870cbd98",
+        "UserName": "Veritano",
+        "Email": "Veritano@gmail.com",
+        "Password": "Vera_5555",
+        "IsAdmin": false
+    },
+    {
+        "Id": "1a6cfa56-a955-4dfd-8afd-835549fb43b3",
+        "UserName": "LaTangerina",
+        "Email": "LaTangerina@gmail.com",
+        "Password": "LaTanga_666",
+        "IsAdmin": false
+    },
+    {
+        "Id": "c55449e0-3684-4fd5-9b6d-4e3a2faf0292",
+        "UserName": "GamerGoals",
+        "Email": "GamerGoals@gmail.com",
+        "Password": "Gamer_5543",
+        "IsAdmin": false
+    },
+    {
+        "Id": "59da8314-dd5a-4af7-a9f1-87b1c84c2e0a",
+        "UserName": "DrJoystick",
+        "Email": "DrJoystick@gmail.com",
+        "Password": "DrJoys_66541",
+        "IsAdmin": false
+    },
+    {
+        "Id": "626edd4e-e93a-45e5-ac7b-9128c37ee473",
+        "UserName": "Inferio",
+        "Email": "Inferio@gmail.com",
+        "Password": "Infer_1109",
+        "IsAdmin": false
+    },
+    {
+        "Id": "39a11fd5-40ae-4eb4-a3bf-677df6b0e548",
+        "UserName": "MrAke",
+        "Email": "aketostoboy@gmail.com",
+        "Password": "Qwert_12345",
+        "IsAdmin": true
+    },
+    {
+        "Id": "cda5ef84-e7d6-4eaf-bfde-6c1e213ffa91",
+        "UserName": "AkeTostoboy",
+        "Email": "ferferrolaniajali@gmail.com",
+        "Password": "Ferferro_3210",
+        "IsAdmin": false
+    }
+]
